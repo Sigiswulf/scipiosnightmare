@@ -1,0 +1,1378 @@
+# 544 - Korsun
+544 = {	# 544 - Korsun
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding #Ahistorical? added to give the county a castle
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	#1032.1.1 = {
+	#	#holding = castle_holding
+	#}
+
+}
+
+# 547 - Kiev
+547 = {	# 547 - Kiev
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 552 - Turov
+552 = {	# 552 - Turov
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 553 - Lyubech
+553 = {	# 553 - Lyubech
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 554 - Chernigov
+554 = {	# 554 - Chernigov
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 555 - Pereyaslavl
+555 = {	# 555 - Pereyaslavl
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 567 - Novgorod Seversky
+567 = {	# 567 - Novgorod Seversky
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 576 - Debryansk
+576 = {	# 576 - Debryansk (Bryansk)
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1146.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5082 - Vyshgorod
+5082 = {	# 5082 - Vyshgorod
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = city_holding
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5083 - Bilhorod
+5083 = {	# 5083 - Bilhorod
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	980.1.1 = {
+		#holding = castle_holding
+	}
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5084 - Yuriev
+5084 = {	# 5084 - Yuriev
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1032.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5085 - Kaniv
+5085 = {	# 5085 - Kaniv
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1078.1.1 = {
+		holding = city_holding
+	}
+
+}
+
+# 5086 - Zdvyzhen
+5086 = {	# 5086 - Zdvyzhen
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5087 - Zhytomyr
+5087 = {	# 5087 - Zhytomyr
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5088 - Mezhybozhe
+5088 = {	# 5088 - Mezhybozhe
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = hills
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5089 - Rastovets
+5089 = {	# 5089 - Rastovets
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5090 - Malaia Skvirka
+5090 = {	# 5090 - Malaia Skivrka
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5091 - Zvyahel
+5091 = {	# 5091 - Zvyahel
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = forest
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5092 - Kolodiazhen
+5092 = {	# 5092 - Kolodiazhen
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = forest
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1180.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5093 - Chortolisy
+5093 = {	# 5093 - Chortolisy
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = forest
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1150.1.1 = {
+		holding = city_holding
+	}
+
+}
+
+# 5094 - Horodnytsia
+5094 = {	# 5094 - Horodnytsia
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = forest
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5095 - Chornobyl
+5095 = {	# 5095 - Chornobyl
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5096 - Ivankiv
+5096 = {	# 5096 - Ivankiv
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = forest
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5097 - Radynka
+5097 = {	# 5097 - Radynka
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = forest
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5098 - Ushytsia
+5098 = {	# 5098 - Ushytsia
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5099 - Vinnytsia
+5099 = {	# 5099 - Vinnytsia
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5100 - Yampil
+5100 = {	# 5100 - Yampil
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5101 - Haisyn
+5101 = {	# 5101 - Haisyn
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = plains
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5102 - Sarny
+5102 = {	# 5102 - Sarny
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5103 - Selo
+5103 = {	# 5103 - Selo
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5104 - Korosten
+5104 = {	# 5104 - Korosten
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5105 - Ovruch
+5105 = {	# 5105 - Ovruch
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	946.1.1 = {
+		holding = city_holding
+	}
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5106 - Mazyr
+5106 = {	# 5106 - Mazyr
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1155.1.1 = {
+		holding = church_holding
+	}
+
+}
+
+# 5107 - Naroulia
+5107 = {	# 5107 - Naroulia
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5108 - Lelchytsy
+5108 = {	# 5108 - Lelchytsy
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5109 - Dubrovytsia
+5109 = {	# 5109 - Dubrovytsia
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5110 - Stepan
+5110 = {	# 5110 - Stepan'
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5111 - Liubeshiv
+5111 = {	# 5111 - Liubeshiv
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	#terrain = wetlands
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5178 - Boryspil
+5178 = {	# 5178 - Boryspil
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1015.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5179 - Priluk
+5179 = {	# 5179 - Priluk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1085.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5180 - Zolotonosha
+5180 = {	# 5180 - Zolotonosha
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5181 - Hradyzk
+5181 = {	# 5181 - Hradyzk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5182 - Akhtyr
+5182 = {	# 5182 - Akhtyr
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	950.1.1 = {
+		holding = city_holding
+	}
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5183 - Myrhorod
+5183 = {	# 5183 - Myrhorod
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1150.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5184 - Poltava
+5184 = {	# 5184 - Poltava
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1174.1.1 = {
+		#holding = castle_holding
+	}
+}
+
+# 5185 - Romen
+5185 = {	# 5185 - Romen
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5186 - Lokhrytsia
+5186 = {	# 5186 - Lokhrytsia
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5187 - Nedryhailiv
+5187 = {	# 5187 - Nedryhailiv
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5188 - Sumy
+5188 = {	# 5188 - Sumy
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5189 - Voin
+5189 = {	# 5189 - Voin'
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5190 - Lubny
+5190 = {	# 5190 - Lubny
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	988.1.1 = {
+		holding = city_holding
+	}
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+
+}
+
+# 5191 - Borzna
+5191 = {	# 5191 - Borzna
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5192 - Glukhov
+5192 = {	# 5192 - Glukhov
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1152.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5193 - Putyvl
+5193 = {	# 5193 - Putyvl
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5194 - Vyr
+5194 = {	# 5194 - Vyr'
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5195 - Konotop
+5195 = {	# 5195 - Konotop
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5196 - Kursk
+5196 = {	# 5196 - Kursk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5197 - Rylsk
+5197 = {	# 5197 - Rylsk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1152.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5198 - Sudzha
+5198 = {	# 5198 - Sudzha
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5199 - Oboyan
+5199 = {	# 5199 - Oboyan
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5200 - Gomel
+5200 = {	# 5200 - Gomel
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1142.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5201 - Unenezh
+5201 = {	# 5201 - Unenezh
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1147.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5202 - Surazichi
+5202 = {	# 5202 - Surazichi
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5203 - Starodub
+5203 = {	# 5203 - Starodub
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5204 - Trubetsk
+5204 = {	# 5204 - Trubetsk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	975.1.1 = {
+		holding = church_holding
+	}
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5205 - Mglin
+5205 = {	# 5205 - Mglin
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5206 - Sevsk
+5206 = {	# 5206 - Sevsk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5207 - Ust-Livny
+5207 = {	# 5207 - Ust-livny
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5208 - Lokot
+5208 = {	# 5208 - Lokot
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5209 - Karachev
+5209 = {	# 5209 - Karachev
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5210 - Krom
+5210 = {	# 5210 - Krom
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1147.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5211 - Oryol
+5211 = {	# 5211 - Oryol
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1150.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5212 - Kozelsk
+5212 = {	# 5212 - Kozelsk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+}
+
+# 5213 - Vorotynsk
+5213 = {	# 5213 - Vorotynsk
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1155.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5214 - Belev
+5214 = {	# 5214 - Belev
+	
+	# Misc
+	culture = volgan
+	religion = slavic_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1147.1.1 = {
+		holding = church_holding
+	}
+}
+
+# 5215 - Novosil
+5215 = {	# 5215 - Novosil
+	
+	# Misc
+	culture = meshchera
+	religion = finnish_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1050.1.1 = {
+		culture = volgan
+	}
+}
+
+# 5216 - Mtensk
+5216 = {	# 5216 - Mtensk
+	
+	# Misc
+	culture = meshchera
+	religion = finnish_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1050.1.1 = {
+		culture = volgan
+	}
+	1146.1.1 = {
+		holding = city_holding
+	}
+}
+
+# 5217 - Odoyev
+5217 = {	# 5217 - Odoyev
+	
+	# Misc
+	culture = meshchera
+	religion = finnish_pagan
+	
+	#holding = castle_holding
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1050.1.1 = {
+		culture = volgan
+	}
+}
+
+# 5218 - Suvorov
+5218 = {	# 5218 - Suvorov
+	
+	# Misc
+	culture = meshchera
+	religion = finnish_pagan
+	
+	holding = none
+	
+	# History
+	989.9.15 = {
+		religion = slavic_pagan
+	}
+	1050.1.1 = {
+		culture = volgan
+	}
+}
+

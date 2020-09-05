@@ -1,0 +1,285 @@
+# Canarias
+849 = {	# 849 - Gran Canaria
+	
+	# Misc
+	culture = punic
+	religion = west_african_pagan
+	
+	# History
+	
+}
+8713 = {	# 8713 - Tenerife
+	
+	# Misc
+	culture = punic
+	religion = west_african_pagan
+	
+	# History
+	
+}
+
+# Fuerteventura
+8714 = {	# 8714 - Fuerteventura
+	
+	# Misc
+	culture = punic
+	religion = west_african_pagan
+	
+	# History
+	
+}
+8715 = {	# 8715 - Lanzarote
+	
+	# Misc
+	culture = punic
+	religion = west_african_pagan
+	
+	# History
+	
+}
+
+# Madeira
+8716 = {	# 8716 - Madeira
+	
+	# Misc
+	culture = punic
+	religion = west_african_pagan
+	
+	# History
+	
+}
+
+# 4575 - SFAX
+4575 = {	# 4575 - SFAX
+	
+	# Misc
+	culture = punic
+	#culture = sanhaja
+	religion = hikmatist
+	
+	# History
+
+}
+
+# 4679 - NAKUR
+4679 = {	# 4679 - NAKUR
+	
+	# Misc
+	culture = punic
+	#culture = sanhaja
+	religion = hikmatist
+	
+	# History
+
+}
+
+# 4683 - TANGER
+4683 = {	# 4683 - TANGER
+	
+	# Misc
+	culture = punic
+	#culture = sanhaja
+	religion = hikmatist
+	
+	# History
+
+}
+
+# 4694 - FES
+4694 = {	# 4694 - FES
+	
+	# Misc
+	culture = punic
+	#culture = sanhaja
+	religion = hikmatist
+	
+	# History
+	#973.1.1 = { culture = zanata }
+	#1069.1.1 = { culture = sanhaja }
+	
+
+}
+
+# 4716 - TINMALLAL
+4716 = {	# 4716 - TINMALLAL
+	
+	# Misc
+	culture = punic
+	#culture = masmuda
+	religion = hikmatist
+	
+	# History
+
+	1139.1.1 = { religion = masmudi }
+
+}
+
+# 4723 - AGADIR
+4723 = {	# 4723 - AGADIR
+	
+	# Misc
+	culture = punic
+	#culture = masmuda
+	religion = hikmatist
+	
+	# History
+
+}
+# 4720 - ASFI
+4720 = {	# 4720 - ASFI
+	
+	# Misc
+	culture = punic
+	#culture = masmuda
+	religion = hikmatist
+	
+	# History
+	1070.1.1 = { religion = hikmatist }
+
+}
+
+# 4689 - Izerhan
+4689 = {	# 4689 - Izerhan
+	
+	# Misc
+	culture = punic
+	#culture = masmuda
+	religion = hikmatist
+	
+	# History
+
+}
+
+# 4727 - IFNI
+4727 = {	# 4727 - IFNI
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = hikmatist
+	
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+	
+
+}
+
+# 4735 - TAZAGOURT
+4735 = {	# 4735 - TAZAGOURT
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = hikmatist
+	
+	# History
+
+}
+
+# 4669 - HUNAYN
+4669 = {	# 4669 - HUNAYN
+	
+	# Misc
+	culture = butr
+	#culture = zanata
+	religion = hikmatist
+	
+	# History
+
+}
+
+# 4737 - SIJILMASA
+4737 = {	# 4737 - SIJILMASA
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = hikmatist
+	
+	holding = castle_holding
+	
+	# History
+	1055.1.1 = {
+		religion = hikmatist
+	}
+}
+
+# 4738 - TAFILALT
+4738 = {	# 4738 - TAFILALT
+	
+	# Misc
+	culture = butr
+	#culture = zanata
+	religion = hikmatist
+	
+	# History
+	1055.1.1 = {
+		religion = hikmatist
+	}
+
+}
+
+# 4621 - Biskra
+4621 = {	# 4621 - Biskra
+	
+	# Misc
+	culture = butr
+	#culture = zanata
+	religion = hikmatist
+	
+	# History
+	955.1.1 = {
+		religion = hikmatist
+	}
+
+}
+
+# 4552 - SURT
+4552 = {	# 4552 - SURT
+	
+	# Misc
+	culture = butr
+	#culture = zanata
+	religion = hikmatist
+	
+	# History
+	1055.1.1 = {
+		culture = punic
+		religion = hikmatist
+	}
+
+}
+
+# 4739 - ZIZ
+4739 = {	# 4739 - ZIZ
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = hikmatist
+	
+	holding = tribal_holding
+	
+	# History
+	1055.1.1 = {
+		religion = hikmatist
+	}
+}
+
+# 4757 - TAGAWST
+4757 = {	# 4757 - TAGAWST
+	
+	# Misc
+	culture = butr
+	#culture = tagelmust
+	religion = hikmatist
+	terrain = hills
+	
+	# History
+
+}
+
