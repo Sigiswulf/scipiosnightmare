@@ -1,0 +1,85 @@
+﻿tyrhennian_group = {
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	mercenary_names = {
+		{ name = "mercenary_company_bull" coat_of_arms = "mc_bull" }
+	}
+
+	etruscan = {
+	
+		color = { 0.75 0.15 0.75 }
+
+		cadet_dynasty_names = {
+			"dynn_Lausa"
+			"dynn_Luchre"
+			"dynn_Matuna"
+			"dynn_Melacinas"
+			"dynn_Porsenna"
+			"dynn_Pulenas"
+			"dynn_Rumulna"
+			"dynn_Spedo"
+			"dynn_Thelesa"
+			"dynn_Titi"
+			"dynn_Tlesnasa"
+			"dynn_Velianas"
+			"dynn_Vipinas"
+			"dynn_Tarchun"
+		}
+
+		dynasty_names = {
+			"dynn_Lausa"
+			"dynn_Luchre"
+			"dynn_Matuna"
+			"dynn_Melacinas"
+			"dynn_Porsenna"
+			"dynn_Pulenas"
+			"dynn_Rumulna"
+			"dynn_Spedo"
+			"dynn_Thelesa"
+			"dynn_Titi"
+			"dynn_Tlesnasa"
+			"dynn_Velianas"
+			"dynn_Vipinas"
+			"dynn_Tarchun"
+		}
+
+		male_names = {
+			Aranth Arnza Aranthur Arnza Arte Cutu Kaisie Kavie Lar Larke Larth Lecne Mamarce Marce Metie Nerie Numesie Pesna Plecu Apatrui Rasce Sethre Spurie Teitu Teucer 
+			Thefarie Thesanthei Thresu Thucer Tite Vel Velthur Venel Venthi Vulca Cai Caile Cneve Cuinte Aule
+		}
+
+		female_names = {
+			Arathiarathenas Arazialarania Arnthi Arnthialusinies Arunthiamalamenas Ati Cainei Culni Hercna Hastia Hathli Larthasarsinaia Larthia Larthiakurvenas Larthiacilnia Metlispitu Nerinairaunthu Peci Pevtha 
+			Purenesithva Raunthu Ramutha Ramthazertnai Ramthacainei Ramthapapni Seianthi Semni Sesanseia Tarchumenaia Sethra Thana Thania Thaniaceine Thanchvil Thanusa Thupeltha Tita Vela Velia Vesia
+		}
+
+		dynasty_of_location_prefix = "dynnp_Lautn"
+	
+		patronym_prefix_male = "dynnpat_pre_Lautn"
+		patronym_prefix_female = "dynnpat_pre_Lautn"
+
+	
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+	
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	
+		ethnicities = {
+			10 = mediterranean
+		}
+
+		mercenary_names = {
+			
+		}
+	}
+}

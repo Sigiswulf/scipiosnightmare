@@ -1,0 +1,232 @@
+﻿iberi_group = {
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	mercenary_names = {
+		{ name = "mercenary_company_bull" coat_of_arms = "mc_bull" }
+	}
+
+	iber = {
+	
+		color = { 0.75 0.15 0.75 }
+
+		cadet_dynasty_names = {
+			"dynn_Abarabasken"
+			"dynn_Ablosken"
+			"dynn_Aibekersken"
+			"dynn_Orisken"
+			"dynn_Indosken"
+			"dynn_Buntalosken"
+			"dynn_Nisunsken"
+			"dynn_Luxosken"
+			"dynn_Bailosken"
+			"dynn_Gargosken"
+			"dynn_Edekosken"
+			"dynn_Korbasken"
+			"dynn_Lagunasken"
+			"dynn_Mandonosken"
+			"dynn_Habasken"
+			"dynn_Alucosken"
+		}
+
+		dynasty_names = {
+			"dynn_Abarabasken"
+			"dynn_Ablosken"
+			"dynn_Aibekersken"
+			"dynn_Orisken"
+			"dynn_Indosken"
+			"dynn_Buntalosken"
+			"dynn_Nisunsken"
+			"dynn_Luxosken"
+			"dynn_Bailosken"
+			"dynn_Gargosken"
+			"dynn_Edekosken"
+			"dynn_Korbasken"
+			"dynn_Lagunasken"
+			"dynn_Mandonosken"
+			"dynn_Habasken"
+			"dynn_Alucosken"
+		}
+
+		male_names = {
+			Abadutiker Abaraban Abargitibasar Ablon Aibekeres Alorildui Alucio Arbiskar
+			Bagarok Bailar Balceadin Balkar Babpo Binturke Biurbetin Boutintibas Buntalos Busadines Caikonbe
+			Cesaro Edecon Edereta Eterindu Gargoris Habis Iceatin Ieorbeles Indo Iscerebeles Katulatin
+			Korbis Korribilo Lagunas Luxino Mandonio Nisunin Nabarsosin Orison Orisos Sakabik Selgiterar Situbolai
+			Sosain Sosinbiuru Talskubilos Teitebas Tibaste Ultidikan Unibelos Urcetices
+				
+			Balkebor Balkelaur Balkenios Balketumar Benebas Beneber Beneberon Benekurtar Beneseken Benetileis 
+			Beriber Beribor Beriturkir Bitubekon Bitutaker Bolaibelaur Bolaikors Bolaitanes Bolaitautin Bolaitikis
+			Kaninis Kanitar Kanitiker Karkosor Karkotanek Katubor Katutautin Katutortin Kerekibas Kerekules Kereleis 
+			Kinebetan Kinekaltur Kinetaker Kinetanes Kinetikis Korobekon Korobin Korosakin Lakobetin Lakobor 
+			Lakotan Nalbebir Nalbekaker Nalbekon Nalbelusban Nemkeibir Nemkeineitin Nemkeitibas Nemkeitolor 
+			Nersebaiser Nersebelaur Nersebikir Nersebin Nersesor Nersetas Saltubir Saltukibas Saltukurtar 
+			Saltusakar Saltutas Sanibetan Sanikon Selkibartas Selkibels Selkikibas Selkitortin Sikesar Siketar 
+			Silikitar Silitanes Silitikis Silitolor Silitortin Sinebekon Sinesir Sinetan Situmbar Situtaker 
+			Situtikirs Suisebiur Suisekaltur Suisetanes Suisetarban Talskukibas Talskukules Talskulor Talskuneitin 
+			Teitalaur Teitalusban Teitatar Teitatolor Teitatortin Tuituibilos Tuituibos Tuituilor Tuituimbar 
+			Tuituineitin Tuituitaker Tuituitas Abar Aibe Ain Aker Albe Alor An Anar Arbi Arki Ars Asai Aster 
+			Atin Aunin Aur Austin Baiser Balar Balke Bartash Bash Bastok Bekon Belaur Belesh Bels Beron Betan 
+			Betin Bikir Bilos Bin Bolai Bor Bosh Boton Ekes Ekar Eler Iar Iaun Ibesh Ibeis Ike Ikor Iltir Iltur 
+			Inte Isker Istan Iunstir Kani Kares Karko Katu Kere Kibash Kine Kitar Kon Koro Korsh Kulesh Kurtar 
+			Lako Laur Leis Lor Lusban Nalbe Neitin Nerse Nes Nish Nios Ortin Sakar Sakin Saltu Shar Seken Selki 
+			Sike Sili  Sosin Suise Taker Talsku Tan Tanek Tanesh Tar Tarban  Tiker Tikirs Tikis Tileis Tolor 
+			Tuitui Tumar Tursh Turkir Tortin Ulti Unin Urke Ustain Mbar Nmkei
+		}
+
+		female_names = {
+			Ama Aretaunin Aunia Auruningica Canine Daleninar Himilce Sicounin Stena
+				
+			Abaralbe Abarena Ainaile Aiunaibe Aiunena Aiuninte Akeraile Akerike Aloraile Anaitu Analbe 
+			Anararbi Anararki Anarinte Anarki Anarurke Anena Anike Anulti Arsarbi Arsarki Arsata Asaialbe 
+			Asaiarki Asaiata Asaiena Asaiulti Asteraibe Asteralbe Asterike Asterurke Atinaile Atinalbe 
+			Atinarki Atininte Atinurke Atunaile Atunarbi Atunulti Auninarbi Auninata Auninena Auninulti 
+			Auninurke Auralbe Aurarbi Aurena Aururke Austinaibe Austinaitu Austinarki Austinike Ekaraile 
+			Ekarena Ekesaibe Ekesaitu Ekesena Eleraibe Estoike Etenaile Etenarbi Etenata Eteraile Eteralbe 
+			Eterarbi Eterike Eterulti Iaraile Iaralbe Iararbi Iarike Iaunalbe Iaunarki Iaunata Ibeisarbi 
+			Ibeisinte Ibesaitu Ikoraile Ikoralbe Ikorarki Iltiraile Iltiralbe Iltirurke Ilturaile Ilturike 
+			Ilturulti Iskeraibe Istanalbe Istanarki Iunstiraitu Iunstirata Iunstirike Iunstirurke Iurarki 
+			Iurike Uninata Uninena Ustainaitu Ustainarki Ustainike Aile Aitu Aiun Ata Atun Bene Ber Beri Bir 
+			Bitu Biur Ena Esto Eten Eter Iur Kaisur Kaker Kaltur Shani Sine Sir Situ Soket Sor 
+			Tartin Tash Tautin Teita Teker Tibash
+		}
+
+		dynasty_of_location_prefix = "dynnp_ku"
+	
+		patronym_suffix_male = "dynnpat_suf_ar"
+		patronym_suffix_female = "dynnpat_suf_ar"
+
+	
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+	
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	
+		ethnicities = {
+			10 = mediterranean
+		}
+
+		mercenary_names = {
+			
+		}
+	}
+	
+	nuragic = {
+	
+		color = { 0.75 0.15 0.75 }
+
+		cadet_dynasty_names = {
+			"dynn_Abarabasken"
+			"dynn_Ablosken"
+			"dynn_Aibekersken"
+			"dynn_Orisken"
+			"dynn_Indosken"
+			"dynn_Buntalosken"
+			"dynn_Nisunsken"
+			"dynn_Luxosken"
+			"dynn_Bailosken"
+			"dynn_Gargosken"
+			"dynn_Edekosken"
+			"dynn_Korbasken"
+			"dynn_Lagunasken"
+			"dynn_Mandonosken"
+			"dynn_Habasken"
+			"dynn_Alucosken"
+		}
+
+		dynasty_names = {
+			"dynn_Abarabasken"
+			"dynn_Ablosken"
+			"dynn_Aibekersken"
+			"dynn_Orisken"
+			"dynn_Indosken"
+			"dynn_Buntalosken"
+			"dynn_Nisunsken"
+			"dynn_Luxosken"
+			"dynn_Bailosken"
+			"dynn_Gargosken"
+			"dynn_Edekosken"
+			"dynn_Korbasken"
+			"dynn_Lagunasken"
+			"dynn_Mandonosken"
+			"dynn_Habasken"
+			"dynn_Alucosken"
+		}
+
+		male_names = {
+			Abadutiker Abaraban Abargitibasar Ablon Aibekeres Alorildui Alucio Arbiskar
+			Bagarok Bailar Balceadin Balkar Babpo Binturke Biurbetin Boutintibas Buntalos Busadines Caikonbe
+			Cesaro Edecon Edereta Eterindu Gargoris Habis Iceatin Ieorbeles Indo Iscerebeles Katulatin
+			Korbis Korribilo Lagunas Luxino Mandonio Nisunin Nabarsosin Orison Orisos Sakabik Selgiterar Situbolai
+			Sosain Sosinbiuru Talskubilos Teitebas Tibaste Ultidikan Unibelos Urcetices
+				
+			Balkebor Balkelaur Balkenios Balketumar Benebas Beneber Beneberon Benekurtar Beneseken Benetileis 
+			Beriber Beribor Beriturkir Bitubekon Bitutaker Bolaibelaur Bolaikors Bolaitanes Bolaitautin Bolaitikis
+			Kaninis Kanitar Kanitiker Karkosor Karkotanek Katubor Katutautin Katutortin Kerekibas Kerekules Kereleis 
+			Kinebetan Kinekaltur Kinetaker Kinetanes Kinetikis Korobekon Korobin Korosakin Lakobetin Lakobor 
+			Lakotan Nalbebir Nalbekaker Nalbekon Nalbelusban Nemkeibir Nemkeineitin Nemkeitibas Nemkeitolor 
+			Nersebaiser Nersebelaur Nersebikir Nersebin Nersesor Nersetas Saltubir Saltukibas Saltukurtar 
+			Saltusakar Saltutas Sanibetan Sanikon Selkibartas Selkibels Selkikibas Selkitortin Sikesar Siketar 
+			Silikitar Silitanes Silitikis Silitolor Silitortin Sinebekon Sinesir Sinetan Situmbar Situtaker 
+			Situtikirs Suisebiur Suisekaltur Suisetanes Suisetarban Talskukibas Talskukules Talskulor Talskuneitin 
+			Teitalaur Teitalusban Teitatar Teitatolor Teitatortin Tuituibilos Tuituibos Tuituilor Tuituimbar 
+			Tuituineitin Tuituitaker Tuituitas Abar Aibe Ain Aker Albe Alor An Anar Arbi Arki Ars Asai Aster 
+			Atin Aunin Aur Austin Baiser Balar Balke Bartash Bash Bastok Bekon Belaur Belesh Bels Beron Betan 
+			Betin Bikir Bilos Bin Bolai Bor Bosh Boton Ekes Ekar Eler Iar Iaun Ibesh Ibeis Ike Ikor Iltir Iltur 
+			Inte Isker Istan Iunstir Kani Kares Karko Katu Kere Kibash Kine Kitar Kon Koro Korsh Kulesh Kurtar 
+			Lako Laur Leis Lor Lusban Nalbe Neitin Nerse Nes Nish Nios Ortin Sakar Sakin Saltu Shar Seken Selki 
+			Sike Sili  Sosin Suise Taker Talsku Tan Tanek Tanesh Tar Tarban  Tiker Tikirs Tikis Tileis Tolor 
+			Tuitui Tumar Tursh Turkir Tortin Ulti Unin Urke Ustain Mbar Nmkei
+		}
+
+		female_names = {
+			Ama Aretaunin Aunia Auruningica Canine Daleninar Himilce Sicounin Stena
+				
+			Abaralbe Abarena Ainaile Aiunaibe Aiunena Aiuninte Akeraile Akerike Aloraile Anaitu Analbe 
+			Anararbi Anararki Anarinte Anarki Anarurke Anena Anike Anulti Arsarbi Arsarki Arsata Asaialbe 
+			Asaiarki Asaiata Asaiena Asaiulti Asteraibe Asteralbe Asterike Asterurke Atinaile Atinalbe 
+			Atinarki Atininte Atinurke Atunaile Atunarbi Atunulti Auninarbi Auninata Auninena Auninulti 
+			Auninurke Auralbe Aurarbi Aurena Aururke Austinaibe Austinaitu Austinarki Austinike Ekaraile 
+			Ekarena Ekesaibe Ekesaitu Ekesena Eleraibe Estoike Etenaile Etenarbi Etenata Eteraile Eteralbe 
+			Eterarbi Eterike Eterulti Iaraile Iaralbe Iararbi Iarike Iaunalbe Iaunarki Iaunata Ibeisarbi 
+			Ibeisinte Ibesaitu Ikoraile Ikoralbe Ikorarki Iltiraile Iltiralbe Iltirurke Ilturaile Ilturike 
+			Ilturulti Iskeraibe Istanalbe Istanarki Iunstiraitu Iunstirata Iunstirike Iunstirurke Iurarki 
+			Iurike Uninata Uninena Ustainaitu Ustainarki Ustainike Aile Aitu Aiun Ata Atun Bene Ber Beri Bir 
+			Bitu Biur Ena Esto Eten Eter Iur Kaisur Kaker Kaltur Shani Sine Sir Situ Soket Sor 
+			Tartin Tash Tautin Teita Teker Tibash
+		}
+
+		dynasty_of_location_prefix = "dynnp_ku"
+	
+		patronym_suffix_male = "dynnpat_suf_ar"
+		patronym_suffix_female = "dynnpat_suf_ar"
+
+	
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+	
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	
+		ethnicities = {
+			10 = mediterranean
+		}
+
+		mercenary_names = {
+			
+		}
+	}
+}

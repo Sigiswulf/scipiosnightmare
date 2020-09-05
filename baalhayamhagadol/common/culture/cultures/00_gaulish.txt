@@ -1,0 +1,263 @@
+﻿gaulish_group = {
+	graphical_cultures = {
+		western_coa_gfx
+		western_building_gfx
+		western_clothing_gfx
+		western_unit_gfx
+	}
+	
+	lathian = {
+		graphical_cultures = {
+			welsh_coa_gfx
+		}
+		color = hsv { 0.25 1.00 0.25 }
+
+		cadet_dynasty_names = {
+			"dynn_Amvon"
+			"dynn_Gwer"
+			"dynn_Odha"
+			"dynn_Iare"
+			"dynn_Chule"
+			"dynn_Locha"
+			"dynn_Mandhon"
+			"dynn_Bróimarchnu"
+			"dynn_Dáichnu"
+			"dynn_Dorichnu"
+			"dynn_Sorchnu"
+			"dynn_Lúithorichnu"
+			"dynn_Arothalchnu"
+			"dynn_Aráichnu"
+			"dynn_Luthwarchnu"
+			"dynn_u'Meld"
+			"dynn_u'Morin"
+			"dynn_Remach"
+			"dynn_Rorich"
+			"dynn_u'Avlach"
+			"dynn_Parisach"
+			"dynn_Namnethach"
+			"dynn_Tolóssach"
+			"dynn_Lúidunach"
+		}
+
+		dynasty_names = {
+			"dynn_Amvon"
+			"dynn_Gwer"
+			"dynn_Odha"
+			"dynn_Iare"
+			"dynn_Chule"
+			"dynn_Locha"
+			"dynn_Mandhon"
+			"dynn_Bróimarchnu"
+			"dynn_Dáichnu"
+			"dynn_Dorichnu"
+			"dynn_Sorchnu"
+			"dynn_Lúithorichnu"
+			"dynn_Arothalchnu"
+			"dynn_Aráichnu"
+			"dynn_Luthwarchnu"
+			"dynn_u'Meld"
+			"dynn_u'Morin"
+			"dynn_Remach"
+			"dynn_Rorich"
+			"dynn_u'Avlach"
+			"dynn_Parisach"
+			"dynn_Namnethach"
+			"dynn_Tolóssach"
+			"dynn_Lúidunach"
+		}
+
+		male_names = {
+			Avlach Avar Avuchath Achan Ach Achichor Achich Adhvói Adhchanan Adhchropath Adhar Adhnorich 
+			Adhchnu Adherth Adhiathwan Adhiéi Adhnemeth Adhswer Ain Asuvilin Athern Aiuch Amarr Amichath Amirich 
+			Amyth Anlonach Anthimar Anáithse Anchamul Anchomói Anesas Aneroeshes Anun Anar Anill Apothor 
+			Arxich Ari Arimar Arithchnu Arwernorich Athevodhu Athéithor Atheghnath Athen Athnimar Atheval Ath Aithin 
+			Anin Baldhomar Bathanath Bellan Belloves Bennach Biathach Bilichath Bill Bim Birach Bissula Bithuch Bithudhach 
+			Bithúith Bithurich Blathomái Bodhuoghnath Bóirich Boli Bothov Bodhilath Branch Brannochnu Brenn Brathron Brimái Brithomar 
+			Bucheswan Cavur Cachumath Calep Camales Camulach Camulochnu Carsich Cashich Casur Cathamaloedh Cathon 
+			Cathuvarr Cathughnath Cathul Cathuman Cathumel Cathumar Cathusias Cathurich Cathuss Cathuval Cathuvolch Car Cavarill 
+			Cavarin Cavar Celthill Cereth Cidher Cinchivil Cinghethrich Claodhich Cóith Cóis Comanor Coman Comarx 
+			Comwuval Comprinn Concholithan Conchothodhum Congheniath Connon Conn Convilithav Corre Corsighnath Coth 
+			Crithonath Crich Cun Cunovarr Cunochnu Cunóiudh Cunomái Cunomarch Cunopéith Cunorich Cunotham Cunovin Dái Dáivith 
+			Dáilith Dannich Dann Danothal Dathlothéi Devorich Dichar Divich Divich Divithiach Divithian Dóir Dor Drappes Druthe 
+			Duchar Dumnach Dumnochnu Dumnochor Dumnorich Dumnothar Dumnomoth Dunochrath Dunohorich Durath Evichath Echim Echrithusir 
+			Edhv Elich Elith Elithov Enemnochnu Eneshin Epach Eparch Epasias Epasnáith Epachupathich Epomuodhur Epomarch 
+			Epomedhu Eporedh Epordhorich Erivói Eridhuv Essanechoth Esunerth Evicha Echicholath Gavrann Gavromái Gasorich Galath 
+			Galva Gannasch Garman Gar Gesathorich Gesor Gethorich Ginghomar Govannith Guthwather Halamardh Helichon Ianumar Iathovói
+			Iver Ivlimar Icha Ich Ichimái Ichorich Ichothasi Ienumar Ilian Ilimar Illanoach Illiumar Imeth Inedhi 
+			Inuthimar Inuthirich Inuth Inuthissa Inthirúich Inghúimar Innochnu Invoman Invonerch Ióimar Ióinchath Ióinchorich 
+			Iomái Iothurich Ioanuchar Isarnochnu Isarn Iudhnach Iuth Iuthumar Iverich Ivochnu Ivomái Ivomar Ivorich Cáianol 
+			Calethedhoy Cor Lannuch Lathumar Luchimar Luch Lichn Lisch Litháichrar Lithavich Lithissa Lithuchnu Lithumar Loerni 
+			Lúither Lúivelin Lúival Lúilch Lúirich Maal Maglochun Marich Malloven Malorich Manuch Marchar Marchomaghn 
+			Marovodhun Marochath Mar Marthach Massa Mathwach Mathuchnu Mathun Medhil Medhsil Messil Messir Missich Moenichoep 
+			Molach Molishom Monur Morichamul Morichnu Morimar Morithasi Namwe Nann Nanonin Nemeth Nerthomar Nonn Novanicho 
+			Ollovich Oppianin Orchethirich Orxethorich Orxill Pennori Pennothiern Pethrochor Pis Pithil Pothomar Prinileth Riathich 
+			Rimar Rossomar Samoghnath Samochnu Sathichnu Searich Sedhull Seeshes Seomun Seomar Sosiav Selisuch Senachul 
+			Senochon Senorich Senuvói Sechwanóithu Sives Smerthulithan Solem Solithumar Shavach Suchellochnu Súicha Sur Suthich 
+			Tamesuvúi Tarv Taseth Tessil Tuthovodhun Tuthomal Tuthomath Toth Tothisschnu Gwevromar Gwell Gweroenerth Gwerochnu 
+			Gwalethiach Gwéith Gwenithotha Gwerchaswellan Gwerchingethrich Gwerchon Gwernochnu Gwerthich Gwerthich Gweruchloeth Gwidhiach Gwinomolath 
+			Gwinomoroch Gwiridhovich Gwiridhomar Gwiswar Gwalthuchias Gwoch Gworthrich Gwoporich Gwrithich 
+		}
+		female_names = {
+			Avalla Adhiéi Aia Andhala Áithiona Genowepa Getháia Iomara Owaldha Púicha Rowecha Terthichna 
+			Donátha Cunópen Lúisela Carmándha Gwinsevar
+		}
+		
+		dynasty_of_location_prefix = "dynnp_u'"
+		
+		patronym_suffix_male = "dynnpat_suf_chnu"
+		patronym_suffix_female = "dynnpat_suf_chna"
+		always_use_patronym = yes	
+
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+		ethnicities = {
+			5 = caucasian_blond
+			30 = caucasian_ginger
+			35 = caucasian_brown_hair
+			30 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_woad_raiders" coat_of_arms = "mc_woad_raiders" }
+		}
+	}
+
+	arelican = {
+		graphical_cultures = {
+			welsh_coa_gfx
+		}
+		color = hsv { 0.60 1.00 0.25 }
+
+		cadet_dynasty_names = {
+			"dynn_Amvon"
+			"dynn_Gwer"
+			"dynn_Odha"
+			"dynn_Iare"
+			"dynn_Chule"
+			"dynn_Locha"
+			"dynn_Mandhon"
+			"dynn_Bróimarchnu"
+			"dynn_Dáichnu"
+			"dynn_Dorichnu"
+			"dynn_Sorchnu"
+			"dynn_Lúithorichnu"
+			"dynn_Arothalchnu"
+			"dynn_Aráichnu"
+			"dynn_Luthwarchnu"
+			"dynn_u'Meld"
+			"dynn_u'Morin"
+			"dynn_Remach"
+			"dynn_Rorich"
+			"dynn_u'Avlach"
+			"dynn_Parisach"
+			"dynn_Namnethach"
+			"dynn_Tolóssach"
+			"dynn_Lúidunach"
+		}
+
+		dynasty_names = {
+			"dynn_Amvon"
+			"dynn_Gwer"
+			"dynn_Odha"
+			"dynn_Iare"
+			"dynn_Chule"
+			"dynn_Locha"
+			"dynn_Mandhon"
+			"dynn_Bróimarchnu"
+			"dynn_Dáichnu"
+			"dynn_Dorichnu"
+			"dynn_Sorchnu"
+			"dynn_Lúithorichnu"
+			"dynn_Arothalchnu"
+			"dynn_Aráichnu"
+			"dynn_Luthwarchnu"
+			"dynn_u'Meld"
+			"dynn_u'Morin"
+			"dynn_Remach"
+			"dynn_Rorich"
+			"dynn_u'Avlach"
+			"dynn_Parisach"
+			"dynn_Namnethach"
+			"dynn_Tolóssach"
+			"dynn_Lúidunach"
+		}
+
+		male_names = {
+			Avlach Avar Avuchath Achan Ach Achichor Achich Adhvói Adhchanan Adhchropath Adhar Adhnorich 
+			Adhchnu Adherth Adhiathwan Adhiéi Adhnemeth Adhswer Ain Asuvilin Athern Aiuch Amarr Amichath Amirich 
+			Amyth Anlonach Anthimar Anáithse Anchamul Anchomói Anesas Aneroeshes Anun Anar Anill Apothor 
+			Arxich Ari Arimar Arithchnu Arwernorich Athevodhu Athéithor Atheghnath Athen Athnimar Atheval Ath Aithin 
+			Anin Baldhomar Bathanath Bellan Belloves Bennach Biathach Bilichath Bill Bim Birach Bissula Bithuch Bithudhach 
+			Bithúith Bithurich Blathomái Bodhuoghnath Bóirich Boli Bothov Bodhilath Branch Brannochnu Brenn Brathron Brimái Brithomar 
+			Bucheswan Cavur Cachumath Calep Camales Camulach Camulochnu Carsich Cashich Casur Cathamaloedh Cathon 
+			Cathuvarr Cathughnath Cathul Cathuman Cathumel Cathumar Cathusias Cathurich Cathuss Cathuval Cathuvolch Car Cavarill 
+			Cavarin Cavar Celthill Cereth Cidher Cinchivil Cinghethrich Claodhich Cóith Cóis Comanor Coman Comarx 
+			Comwuval Comprinn Concholithan Conchothodhum Congheniath Connon Conn Convilithav Corre Corsighnath Coth 
+			Crithonath Crich Cun Cunovarr Cunochnu Cunóiudh Cunomái Cunomarch Cunopéith Cunorich Cunotham Cunovin Dái Dáivith 
+			Dáilith Dannich Dann Danothal Dathlothéi Devorich Dichar Divich Divich Divithiach Divithian Dóir Dor Drappes Druthe 
+			Duchar Dumnach Dumnochnu Dumnochor Dumnorich Dumnothar Dumnomoth Dunochrath Dunohorich Durath Evichath Echim Echrithusir 
+			Edhv Elich Elith Elithov Enemnochnu Eneshin Epach Eparch Epasias Epasnáith Epachupathich Epomuodhur Epomarch 
+			Epomedhu Eporedh Epordhorich Erivói Eridhuv Essanechoth Esunerth Evicha Echicholath Gavrann Gavromái Gasorich Galath 
+			Galva Gannasch Garman Gar Gesathorich Gesor Gethorich Ginghomar Govannith Guthwather Halamardh Helichon Ianumar Iathovói
+			Iver Ivlimar Icha Ich Ichimái Ichorich Ichothasi Ienumar Ilian Ilimar Illanoach Illiumar Imeth Inedhi 
+			Inuthimar Inuthirich Inuth Inuthissa Inthirúich Inghúimar Innochnu Invoman Invonerch Ióimar Ióinchath Ióinchorich 
+			Iomái Iothurich Ioanuchar Isarnochnu Isarn Iudhnach Iuth Iuthumar Iverich Ivochnu Ivomái Ivomar Ivorich Cáianol 
+			Calethedhoy Cor Lannuch Lathumar Luchimar Luch Lichn Lisch Litháichrar Lithavich Lithissa Lithuchnu Lithumar Loerni 
+			Lúither Lúivelin Lúival Lúilch Lúirich Maal Maglochun Marich Malloven Malorich Manuch Marchar Marchomaghn 
+			Marovodhun Marochath Mar Marthach Massa Mathwach Mathuchnu Mathun Medhil Medhsil Messil Messir Missich Moenichoep 
+			Molach Molishom Monur Morichamul Morichnu Morimar Morithasi Namwe Nann Nanonin Nemeth Nerthomar Nonn Novanicho 
+			Ollovich Oppianin Orchethirich Orxethorich Orxill Pennori Pennothiern Pethrochor Pis Pithil Pothomar Prinileth Riathich 
+			Rimar Rossomar Samoghnath Samochnu Sathichnu Searich Sedhull Seeshes Seomun Seomar Sosiav Selisuch Senachul 
+			Senochon Senorich Senuvói Sechwanóithu Sives Smerthulithan Solem Solithumar Shavach Suchellochnu Súicha Sur Suthich 
+			Tamesuvúi Tarv Taseth Tessil Tuthovodhun Tuthomal Tuthomath Toth Tothisschnu Gwevromar Gwell Gweroenerth Gwerochnu 
+			Gwalethiach Gwéith Gwenithotha Gwerchaswellan Gwerchingethrich Gwerchon Gwernochnu Gwerthich Gwerthich Gweruchloeth Gwidhiach Gwinomolath 
+			Gwinomoroch Gwiridhovich Gwiridhomar Gwiswar Gwalthuchias Gwoch Gworthrich Gwoporich Gwrithich 
+		}
+		female_names = {
+			Avalla Adhiéi Aia Andhala Áithiona Genowepa Getháia Iomara Owaldha Púicha Rowecha Terthichna 
+			Donátha Cunópen Lúisela Carmándha Gwinsevar
+		}
+		
+		dynasty_of_location_prefix = "dynnp_u'"
+		
+		patronym_suffix_male = "dynnpat_suf_chnu"
+		patronym_suffix_female = "dynnpat_suf_chna"
+		always_use_patronym = yes	
+
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+		ethnicities = {
+			10 = caucasian_blond
+			15 = caucasian_ginger
+			40 = caucasian_brown_hair
+			30 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_woad_raiders" coat_of_arms = "mc_woad_raiders" }
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+

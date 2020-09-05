@@ -1,0 +1,152 @@
+﻿punic_group = {
+	
+	graphical_cultures = {
+		israelite_group_coa_gfx
+		mena_building_gfx
+		byzantine_clothing_gfx
+		mena_unit_gfx
+	}
+
+	punic = {
+		
+		color = { 0.8 0.5 0.7 }
+
+		cadet_dynasty_names = {
+			"dynn_Barqa"
+			"dynn_Didoni"
+			"dynn_Mago"
+			"dynn_Hannoni"
+			"dynn_by_Reshef"
+			"dynn_by_Azrubaal"
+			"dynn_by_Bomilqar"
+			"dynn_Atiqi"
+			"dynn_by_Tabnit"
+			"dynn_Apwni"
+			"dynn_Tefezi"
+			"dynn_Wyati"
+			"dynn_Tsabratani"
+			{ "dynnp_adn" "dynn_Lepiq" }
+			{ "dynnp_adn" "dynn_Liksh" }
+			{ "dynnp_adn" "dynn_Tinga" }
+			{ "dynnp_adn" "dynn_Tamuts" }
+			"dynn_Aram"
+		}
+
+		dynasty_names = {
+			"dynn_Barqa"
+			"dynn_Didoni"
+			"dynn_Mago"
+			"dynn_Hannoni"
+			"dynn_by_Reshef"
+			"dynn_by_Azrubaal"
+			"dynn_by_Bomilqar"
+			"dynn_Atiqi"
+			"dynn_by_Tabnit"
+			"dynn_Apwni"
+			"dynn_Tefezi"
+			"dynn_Wyati"
+			"dynn_Tsabratani"
+			{ "dynnp_adn" "dynn_Lepiq" }
+			{ "dynnp_adn" "dynn_Liksh" }
+			{ "dynnp_adn" "dynn_Tinga" }
+			{ "dynnp_adn" "dynn_Tamuts" }
+			"dynn_Aram"
+		}
+
+		male_names = {
+			Hanno Malkh Mago Azrwbaal Hamilqart Hamilq Hanibaal Gerzakkwn Bomilqar Adherbaal Bodo Boztar Qarthalo Akhat Qarnaim Abdmelqart Abdaztartwz Adoniah Yarikh Baaltzar Bodeshmwn Milkyaton
+			Reshef Baalthazar Ashtartyaton Baaltzer Hyrwm Hailama Zefon Baaldo Baalzer Adonia Wgarit Ywtpan Yehawwielon Baalshillek Hiram Baaltzer Adones Beyrwt Bodmelqart Shamayim Azmelqart Batnoam 
+			Adad Abbar Adonibaal Agbaal Ahirom Azimilik Baal Baalhanno Bodashtart Khelbez Tabnit Zimrida Gerbaal Gerimilki Khilezbaal Baaliaton Barekbaal Wrwmilki Yehomilk Yadamilk Paltibaal Abirami
+			Eshbaal Germelqart Maharbaal Mattan Metallo Milkherem Milkiram Danel Kanmi Maharbaal Milkpillez Melqartpilles Massinissa Hiempzal Ywba Melqartshama Ahwmm Eshmownhillez Eshmowniaton Itthobaal 
+			Filosir Bomiqal Abdhamon Abibaal Bodbaal Ahiram Aderbaal Abdeshmwn Akbar Aqhat Ashtzaf Bodinelqart
+			Eshmwnamash Eshmwnazar Abdimilki Ribaddi Sakarbaal Massinissa
+		}
+		female_names = {
+			Dido Sophonisba Alissa Birkana Adonica Amatbaal Ashtoreth Amatashtart Imashmon Izabel Tanyth Yezevel Birkanda Zibqet Melita Barkitbaal Yezebel Sisa Demna Ashtart Amotmilqart Azibaal Adonyah Tanith 
+			Arshwt Yezibel Tanni Birkanda Amatbaal Anath Koryender Koriander Tanyih Arishot Ashdonbaal Yasha Wmmashtart Shiba Pawly Shapash Amma Mitwnbaal Arashtibaal Tanis Domina Izavel Qwarta Tanythe Bisha Nikkal
+			Abdosir Arishat Batnoam Shayna Tamar Adiya Tabwa Yapa Ytab Swhaima Hwldw Mashah Gamila Asherah Iezabel Elissa Mwttwnbaal
+		}
+		
+		dynasty_of_location_prefix = "dynnp_adn"
+		patronym_prefix_male = "dynnpat_pre_by"
+		patronym_prefix_female = "dynnpat_pre_byth"
+		
+		ethnicities = {
+			10 = arab
+		}
+	}
+	punic_iberian = {
+		
+		color = { 0.7 0.5 0.4 }
+
+		cadet_dynasty_names = {
+			"dynn_Barqa"
+			"dynn_Didoni"
+			"dynn_Mago"
+			"dynn_Hannoni"
+			"dynn_by_Reshef"
+			"dynn_by_Azrubaal"
+			"dynn_by_Bomilqar"
+			"dynn_Atiqi"
+			"dynn_by_Tabnit"
+			"dynn_Apwni"
+			"dynn_Tefezi"
+			"dynn_Wyati"
+			"dynn_Tsabratani"
+			{ "dynnp_adn" "dynn_Lepiq" }
+			{ "dynnp_adn" "dynn_Liksh" }
+			{ "dynnp_adn" "dynn_Tinga" }
+			{ "dynnp_adn" "dynn_Tamuts" }
+			"dynn_Aram"
+		}
+
+		dynasty_names = {
+			"dynn_Barqa"
+			"dynn_Didoni"
+			"dynn_Mago"
+			"dynn_Hannoni"
+			"dynn_by_Reshef"
+			"dynn_by_Azrubaal"
+			"dynn_by_Bomilqar"
+			"dynn_Atiqi"
+			"dynn_by_Tabnit"
+			"dynn_Apwni"
+			"dynn_Tefezi"
+			"dynn_Wyati"
+			"dynn_Tsabratani"
+			{ "dynnp_adn" "dynn_Lepiq" }
+			{ "dynnp_adn" "dynn_Liksh" }
+			{ "dynnp_adn" "dynn_Tinga" }
+			{ "dynnp_adn" "dynn_Tamuts" }
+			"dynn_Aram"
+		}
+
+		male_names = {
+			Hanno Malkh Mago Azrwbaal Hamilqart Hamilq Hanibaal Gerzakkwn Bomilqar Adherbaal Bodo Boztar Qarthalo Akhat Qarnaim Abdmelqart Abdaztartwz Adoniah Yarikh Baaltzar Bodeshmwn Milkyaton
+			Reshef Baalthazar Ashtartyaton Baaltzer Hyrwm Hailama Zefon Baaldo Baalzer Adonia Wgarit Ywtpan Yehawwielon Baalshillek Hiram Baaltzer Adones Beyrwt Bodmelqart Shamayim Azmelqart Batnoam 
+			Adad Abbar Adonibaal Agbaal Ahirom Azimilik Baal Baalhanno Bodashtart Khelbez Tabnit Zimrida Gerbaal Gerimilki Khilezbaal Baaliaton Barekbaal Wrwmilki Yehomilk Yadamilk Paltibaal Abirami
+			Eshbaal Germelqart Maharbaal Mattan Metallo Milkherem Milkiram Danel Kanmi Maharbaal Milkpillez Melqartpilles Massinissa Hiempzal Ywba Melqartshama Ahwmm Eshmownhillez Eshmowniaton Itthobaal 
+			Filosir Bomiqal Abdhamon Abibaal Bodbaal Ahiram Aderbaal Abdeshmwn Akbar Aqhat Ashtzaf Bodinelqart
+			Eshmwnamash Eshmwnazar Abdimilki Ribaddi Sakarbaal Massinissa
+			
+			Balkebor Balkelawr Balkenios Balketwmar Benebas Beneber Beneberon Benekwrtar Beneseken Benetileis 
+			Beriber Beribor Beritwrkir Bitwbekon Bitwtaker Bolaibelawr Bolaikors Bolaitanes Bolaitawtin Bolaitikis
+			Kaninis Kanitar Kanitiker Karkosor Karkotanek Katwbor Katwtawtin Katwtortin Kerekibas Kerekwles Kereleis 
+		}
+		female_names = {
+			Dido Sophonisba Alissa Birkana Adonica Amatbaal Ashtoreth Amatashtart Imashmon Izabel Tanyth Yezevel Birkanda Zibqet Melita Barkitbaal Yezebel Sisa Demna Ashtart Amotmilqart Azibaal Adonyah Tanith 
+			Arshwt Yezibel Tanni Birkanda Amatbaal Anath Koryender Koriander Tanyih Arishot Ashdonbaal Yasha Wmmashtart Shiba Pawly Shapash Amma Mitwnbaal Arashtibaal Tanis Domina Izavel Qwarta Tanythe Bisha Nikkal
+			Abdosir Arishat Batnoam Shayna Tamar Adiya Tabwa Yapa Ytab Swhaima Hwldw Mashah Gamila Asherah Iezabel Elissa Mwttwnbaal
+			
+			Ama Aretawnin Awnia Awrwningika Kanine Daleninar Himilke Sikownin Stena
+		}
+		
+		dynasty_of_location_prefix = "dynnp_adn"
+		patronym_prefix_male = "dynnpat_pre_by"
+		patronym_prefix_female = "dynnpat_pre_byth"
+		
+		ethnicities = {
+			10 = arab
+		}
+	}
+}
