@@ -1,0 +1,384 @@
+#k_denmark
+##d_sjaelland ###################################
+###c_sjaelland
+63 = {		#ROSKILDE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+433 = {		#HELSINGORA
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+85 = {		#HAFN
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+64 = {		#NAEVSTED
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+69 = {		#SLAGELSE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_fyn
+65 = {		#ODENSE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+66 = {		#SVENDBORG
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+228 = {		#MIDDELFART
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_lolland_falster
+67 = {		#NYKOBING
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+68 = {		#NAKSKOV
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+##d_skane ###################################
+###c_skane
+70 = {		#LUND
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+71 = {		#TRELLEBORG
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+72 = {		#TOMMERUP
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+86 = {		#GOINGE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+73 = {		#HELSINGBORG
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_halland
+74 = {		#HALMSTAD
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+75 = {		#ONSALA
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+76 = {		#LAHOLM
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_bornholm
+77 = {		#RONNE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_blekinge
+78 = {		#BREGNE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+79 = {		#RONNEBY
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+87 = {		#LISTER
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+80 = {		#AVASKAR
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+##d_jylland ###################################
+###c_aarhus
+57 = {		#AARHUS
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+58 = {		#JELLING
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+226 = {		#DJURSLAND
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_viborg
+56 = {		#VIBORG
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+222 = {		#ORMSTRUP
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_ringkobing
+82 = {		#RINGKOBING
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+221 = {		#HOLSTEBRO
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+223 = {		#YCOST
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+225 = {		#TARM
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_aalborg
+81 = {		#AALBORG
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+55 = {		#LINDHOLM
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+224 = {		#RANDROS
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+##d_slesvig ###################################
+###c_slesvig
+62 = {		#HEDEBY
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+61 = {		#AABENRAA
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+84 = {		#HUSUMBRO
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_vorbasse
+59 = {		#VORBASSE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+227 = {		#TAULOV
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+434 = {		#KOLDING
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+
+###c_ribe
+60 = {		#RIBE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+83 = {		#VARDE
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
+220 = {		#STRAND
+	culture = norse
+	religion = norse_pagan
+	1066.1.1 = {
+		culture = danish
+		religion = norse_pagan
+	}
+}
