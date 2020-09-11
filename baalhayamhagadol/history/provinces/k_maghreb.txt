@@ -55,7 +55,7 @@
 	# Misc
 	culture = punic
 	#culture = sanhaja
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -67,7 +67,7 @@
 	# Misc
 	culture = punic
 	#culture = sanhaja
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -79,7 +79,7 @@
 	# Misc
 	culture = punic
 	#culture = sanhaja
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -91,7 +91,7 @@
 	# Misc
 	culture = punic
 	#culture = sanhaja
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 	#973.1.1 = { culture = zanata }
@@ -106,7 +106,7 @@
 	# Misc
 	culture = punic
 	#culture = masmuda
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -120,7 +120,7 @@
 	# Misc
 	culture = punic
 	#culture = masmuda
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -131,10 +131,10 @@
 	# Misc
 	culture = punic
 	#culture = masmuda
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
-	1070.1.1 = { religion = hikmatist }
+	1070.1.1 = { religion = hikmatism }
 
 }
 
@@ -144,7 +144,7 @@
 	# Misc
 	culture = punic
 	#culture = masmuda
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -156,7 +156,7 @@
 	# Misc
 	culture = butr
 	#culture = tagelmust
-	religion = hikmatist
+	religion = hikmatism
 	
 	holding = tribal_holding
 	
@@ -174,7 +174,7 @@
 	# Misc
 	culture = butr
 	#culture = tagelmust
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -186,7 +186,7 @@
 	# Misc
 	culture = butr
 	#culture = zanata
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 
@@ -198,13 +198,13 @@
 	# Misc
 	culture = butr
 	#culture = tagelmust
-	religion = hikmatist
+	religion = hikmatism
 	
 	holding = castle_holding
 	
 	# History
 	1055.1.1 = {
-		religion = hikmatist
+		religion = hikmatism
 	}
 }
 
@@ -214,11 +214,11 @@
 	# Misc
 	culture = butr
 	#culture = zanata
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 	1055.1.1 = {
-		religion = hikmatist
+		religion = hikmatism
 	}
 
 }
@@ -229,11 +229,11 @@
 	# Misc
 	culture = butr
 	#culture = zanata
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 	955.1.1 = {
-		religion = hikmatist
+		religion = hikmatism
 	}
 
 }
@@ -244,12 +244,12 @@
 	# Misc
 	culture = butr
 	#culture = zanata
-	religion = hikmatist
+	religion = hikmatism
 	
 	# History
 	1055.1.1 = {
 		culture = punic
-		religion = hikmatist
+		religion = hikmatism
 	}
 
 }
@@ -260,13 +260,13 @@
 	# Misc
 	culture = butr
 	#culture = tagelmust
-	religion = hikmatist
+	religion = hikmatism
 	
 	holding = tribal_holding
 	
 	# History
 	1055.1.1 = {
-		religion = hikmatist
+		religion = hikmatism
 	}
 }
 
@@ -276,7 +276,7 @@
 	# Misc
 	culture = butr
 	#culture = tagelmust
-	religion = hikmatist
+	religion = hikmatism
 	terrain = hills
 	
 	# History

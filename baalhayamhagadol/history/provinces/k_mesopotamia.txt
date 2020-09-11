@@ -17,7 +17,7 @@
 	
 	#Misc
 	culture = kurdish
-	religion = mandeaism
+	religion = mazdayasna
 	
 	# History
 	1200.1.1 = {
@@ -55,10 +55,9 @@
 # 4777 - IRBIL
 4777 = {	#Misc
 	culture = kurdish
-	religion = zurvanism
+	religion = mazdayasna
 	
 	# History
-	867.1.1 = { religion = mandeaism }
 	1200.1.1 = { religion = yazidi }
 
 }
@@ -88,7 +87,7 @@
 # 4780 - SHAHRAZUR
 4780 = {	#Misc
 	culture = kurdish
-	religion = mandeaism
+	religion = mazdayasna
 	
 	# History
 
@@ -97,7 +96,7 @@
 # 4788 - BADARAYA
 4788 = {	#Misc
 	culture = assyrian
-	religion = mandeaism
+	religion = mazdayasna
 	
 	# History
 	
@@ -232,8 +231,8 @@
 
 # 4800 - HULWAN
 4800 = {	#Misc
-	culture = kurdish
-	religion = mandeaism
+	culture = persian
+	religion = mazdayasna
 	
 	# History
 
@@ -554,7 +553,7 @@
 5991 = {	# 5991 - Safata
 	
 	# Misc
-	culture = bedouin
+	culture = assyrian
 	religion = mandeaism
 	
 	# History
@@ -566,7 +565,7 @@
 5992 = {	# 5992 - Al-Kufa
 	
 	# Misc
-	culture = bedouin
+	culture = assyrian
 	religion = mandeaism
 	
 	# History
@@ -595,11 +594,10 @@
 5994 = {	# 5994 - Al-Qadisiya
 	
 	#Misc
-	culture = assyrian
+	culture = bedouin
 	religion = mandeaism
 	
 	# History
-	850.1.1 = { religion = mandeaism }
 
 }
 
@@ -655,7 +653,7 @@
 6000 = {	# 6000 - Waqisa
 	
 	#Misc
-	culture = assyrian
+	culture = bedouin
 	religion = mandeaism
 	
 	# History
@@ -769,7 +767,7 @@
 6020 = {	# 6020 - Al-Ubulla
 	
 	# Misc
-	culture = bedouin
+	culture = assyrian
 	religion = mandeaism
 	
 	# History

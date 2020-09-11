@@ -391,7 +391,7 @@
 5925 = {	# 5925 - Az-Zabadani
 	
 	# Misc
-	culture = sethianism
+	culture = assyrian
 	religion = hellenic_pagan
 	
 	# History

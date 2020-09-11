@@ -5,9 +5,6 @@
 	culture = etruscan
 	religion = hellenic_pagan
 	holding = church_holding
-	900.1.1 = {
-		culture = etruscan
-	}
 }
 2549 = {	#IMOLA
 	holding = castle_holding
@@ -50,9 +47,6 @@
 	culture = etruscan
 	religion = hellenic_pagan
 	holding = castle_holding
-	900.1.1 = {
-		culture = etruscan
-	}
 }
 2552 = {	#MONTEFELTRO
 	holding = none
@@ -110,12 +104,9 @@
 ##d_spoleto ###################################
 ###c_spoleto
 2585 = {	#SPOLETO
-	culture - etruscan
+	culture = etruscan
 	religion = hellenic_pagan
 	holding = castle_holding
-	1022.1.1 = {
-		culture = etruscan
-	}
 }
 2581 = {	#ASSISSI
 	holding = none
@@ -126,12 +117,9 @@
 
 ###c_orvieto
 2568 = {	#ORVIETO
-	culture - etruscan
+	culture = etruscan
 	religion = hellenic_pagan
 	holding = castle_holding
-	1022.1.1 = {
-		culture = etruscan
-	}
 }
 2566 = {	#PERUGIA
 	holding = church_holding
@@ -139,12 +127,9 @@
 
 ###c_teramo
 2596 = {	#TERAMO
-	culture - etruscan
+	culture = etruscan
 	religion = hellenic_pagan
 	holding = castle_holding
-	1022.1.1 = {
-		culture = etruscan
-	}
 }
 2588 = {	#RIETI
 	holding = city_holding
@@ -152,7 +137,7 @@
 
 ###c_lanciano
 2604 = {	#LANCIANO
-	culture - italic
+	culture = italic
 	religion = hellenic_pagan
 	holding = castle_holding
 
@@ -163,7 +148,7 @@
 
 ###c_abruzzi
 2600 = {	#AVEZZANO
-	culture - italic
+	culture = italic
 	religion = hellenic_pagan
 	holding = castle_holding
 }

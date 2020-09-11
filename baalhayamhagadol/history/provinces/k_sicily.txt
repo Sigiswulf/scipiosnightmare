@@ -3,7 +3,7 @@
 ###c_palermo
 2635 = {	#PALERMO
 	culture = punic
-	religion = hikmatist
+	religion = hikmatism
 	holding = castle_holding
 }
 2636 = {	#TRAPANI
@@ -27,7 +27,7 @@
 	holding = castle_holding
 	869.1.1 = {
 		culture = punic
-		religion = hikmatist
+		religion = hikmatism
 	}
 }
 2634 = {	#CEFALU
@@ -44,7 +44,7 @@
 	holding = castle_holding
 	904.1.1 = {
 		culture = punic
-		religion = hikmatist
+		religion = hikmatism
 	}
 }
 2643 = {	#LENTINI
@@ -61,7 +61,7 @@
 	holding = castle_holding
 	874.1.24 = {
 		culture = punic
-		religion = hikmatist
+		religion = hikmatism
 	}
 }
 2640 = {	#CASTROGIOVANNI
@@ -74,7 +74,7 @@
 ###c_malta
 2646 = {	#MALTA
 	culture = punic
-	religion = hikmatist
+	religion = hikmatism
 	holding = castle_holding
 
 }

@@ -43,7 +43,7 @@
 	
 	# History
 	830.1.1 = {
-		religion = khurmazta
+		religion = mazdakism
 	}
 	880.1.1 = {
 		religion = mazdayasna
@@ -120,7 +120,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = ismaili
+	religion = mazdakism
 	
 	# History
 	1160.1.1 = {
@@ -201,7 +201,7 @@
 	religion = mazdayasna
 	
 	# History
-	864.1.1 = { religion = zayidi }
+	864.1.1 = { religion = zurvanite }
 }
 
 # 4332 - Dinawar

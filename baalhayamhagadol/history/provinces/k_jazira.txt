@@ -3,7 +3,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -16,7 +16,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -29,7 +29,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -96,7 +96,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -109,7 +109,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -122,7 +122,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -135,7 +135,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -148,7 +148,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -161,7 +161,7 @@
 	
 	# Misc
 	culture = kurdish
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -185,7 +185,7 @@
 	
 	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -216,7 +216,7 @@
 # 4848 - SINJAR
 4848 = {	#Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -228,7 +228,7 @@
 	
 	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -240,7 +240,7 @@
 	
 	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -252,7 +252,7 @@
 	
 	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	867.1.1 = { religion = mazdayasna }
@@ -588,7 +588,7 @@
 	
 	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	
@@ -598,7 +598,7 @@
 # 4885 - HADITHAT-ANA
 4885 = {	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	
@@ -608,7 +608,7 @@
 # 4886 - AL-HADITHA-FURAT
 4886 = {	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 
@@ -619,7 +619,7 @@
 	
 	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 
@@ -630,7 +630,7 @@
 	
 	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	
@@ -640,7 +640,7 @@
 # 4889 - AL-RAHBA
 4889 = {	# Misc
 	culture = assyrian
-	religion = nestorian
+	religion = mandeaism
 	
 	# History
 	
