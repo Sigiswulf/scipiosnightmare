@@ -1105,10 +1105,10 @@ l_english:
  hellenic_pagan_old_adherent_plural:0 "Old Hellenists"
  
  #Tanitism (Punic polytheism headed by Tanit)
- punic_pagan:0 "Cadessism"
- punic_pagan_adj:0 "Cadessite"
- punic_pagan_adherent:0 "Cadessite"
- punic_pagan_adherent_plural:0 "Cadessites"
+ punic_pagan:0 "Tanitism"
+ punic_pagan_adj:0 "Tanitist"
+ punic_pagan_adherent:0 "Tanitist"
+ punic_pagan_adherent_plural:0 "Tanitists"
  punic_pagan_desc:0 "Tanitism is directly descended from the ancient polytheistic faith of the Canaanite peoples. When Carthage adopted Cadessism, the people of Barqenia rejected the new dualistic, gnostic interpretation of their ancestral beliefs, and established a foothold of 'true believers' in Iberia. As a reaction to Elyon's importance in the Cadessite faith, its worship was banned throughout the Barqenian lands, and its place as the supreme deity was taken foremost by Tanit and secondarily by Ba'al Hammon."
  #General Semitic polytheism
  semitic_religion:0 "Semitic"
