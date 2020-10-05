@@ -178,7 +178,7 @@
 		PositiveAfterLife = dualism_positive_afterlife
 		NegativeAfterLife = dualism_negative_afterlife
 		DeathDeityName = dualism_death_deity_name
-		DeathDeityNamePossessive = dualism_death_deity_name_possessive
+		DeathDeityNamePossessive = dualist_death_deity_name_possessive
 		DeathDeitySheHe = dualism_death_shehe
 		DeathDeityHerHis = dualism_death_diety_herhis
 		WitchGodName = dualism_devil_name
@@ -410,13 +410,13 @@
 				DevilHerHis = CHARACTER_HERHIS_HIS
 				DevilHerselfHimself = CHARACTER_HIMSELF
 				EvilGodNames = {
-					mandeanism_devil_name
+					mandeaism_devil_name
 					dualism_devil_name
 					dualism_evil_god_archons
 					dualism_evil_god_matter
 					dualism_evil_god_ignorance
 				}
-				WitchGodName = mandeanism_devil_name
+				WitchGodName = mandeaism_devil_name
 				WitchGodHerHis = CHARACTER_HERHIS_HIS
 				WitchGodSheHe = CHARACTER_SHEHE_HE
 				WitchGodHerHim = CHARACTER_HERHIM_HIM
@@ -451,8 +451,8 @@
 				CreatorSheHe = CHARACTER_SHEHE_HE
 				CreatorHerHis = CHARACTER_HERHIS_HIS
 				CreatorHerHim = CHARACTER_HERHIM_HIM
-				DevilName = mandeanism_devil_name
-				DevilNamePossessive = mandeanism_devil_name_possessive
+				DevilName = mandeaism_devil_name
+				DevilNamePossessive = mandeaism_devil_name_possessive
 				DevilSheHe = CHARACTER_SHEHE_HE
 				DevilHerHis = CHARACTER_HERHIS_HIS
 				DevilHerselfHimself = CHARACTER_HIMSELF
@@ -595,7 +595,7 @@
 			icon = sethianism
 
 			holy_site = jerusalem
-			holy_site = damascus
+			holy_site = rome
 			holy_site = alexandria
 			holy_site = sijilmasa
 			holy_site = sinai
@@ -852,43 +852,42 @@
 		}
 		
 		hikmatism = {
-			color = { 0.75 0.7 0.75 }
-			icon = sethianism
+			color = { 0.8 0.7 0.8 }
+			icon = manichean
 
+			holy_site = carthage
 			holy_site = beirut
-			holy_site = tunis
-			holy_site = murcia
-			holy_site = palermo
-			holy_site = tripoli
+			holy_site = lilybaion
+			holy_site = newcarthage
+			holy_site = barqen
 
 			doctrine = tenet_gnosticism
-			doctrine = tenet_communal_identity
-			doctrine = tenet_legalism
+			doctrine = tenet_adaptive
+			doctrine = tenet_esotericism
 
-			doctrine = doctrine_spiritual_head
-
-			localization = {
+			localization = { # Manichean/Priscillianism Gods
+				#HighGodName
 				HighGodName = hikmatism_high_god_name
 				HighGodNamePossessive = hikmatism_high_god_name_possessive
 				HighGodNameSheHe = CHARACTER_SHEHE_HE
 				HighGodHerselfHimself = CHARACTER_HIMSELF
 				HighGodHerHis = CHARACTER_HERHIS_HIS
-				HighGodNameAlternate = hikmatism_high_god_alternate
-				HighGodNameAlternatePossessive = hikmatism_high_god_alternate_possessive
+				HighGodNameAlternate = hikmatism_high_god_name
+				HighGodNameAlternatePossessive = hikmatism_high_god_name_possessive
 
 				#Creator
 				CreatorName = hikmatism_creator_god_name
 				CreatorNamePossessive = hikmatism_creator_god_name_possessive
-				CreatorSheHe = CHARACTER_SHEHE_HE
-				CreatorHerHis = CHARACTER_HERHIS_HIS
-				CreatorHerHim = CHARACTER_HERHIM_HIS
+				CreatorSheHe = CHARACTER_SHEHE_SHE
+				CreatorHerHis = CHARACTER_HERHIS_HER
+				CreatorHerHim = CHARACTER_HERHIM_HER
 
 				#HealthGod
 				HealthGodName = hikmatism_health_god_name
 				HealthGodNamePossessive = hikmatism_health_god_name_possessive
-				HealthGodSheHe = CHARACTER_SHEHE_HE
-				HealthGodHerHis = CHARACTER_HERHIS_HIS
-				HealthGodHerHim = CHARACTER_HERHIM_HIS
+				HealthGodSheHe = CHARACTER_SHEHE_IT
+				HealthGodHerHis = CHARACTER_HERHIS_ITS
+				HealthGodHerHim = CHARACTER_HERHIM_IT
 				
 				#FertilityGod
 				FertilityGodName = hikmatism_fertility_god_name
@@ -900,49 +899,49 @@
 				#WealthGod
 				WealthGodName = hikmatism_wealth_god_name
 				WealthGodNamePossessive = hikmatism_wealth_god_name_possessive
-				WealthGodSheHe = CHARACTER_SHEHE_SHE
-				WealthGodHerHis = CHARACTER_HERHIS_HER
-				WealthGodHerHim = CHARACTER_HERHIM_HER
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 				#HouseholdGod
 				HouseholdGodName = hikmatism_household_god_name
 				HouseholdGodNamePossessive = hikmatism_household_god_name_possessive
-				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
-				HouseholdGodHerHis = CHARACTER_HERHIS_HER
-				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
 
 				#KnowledgeGod
 				KnowledgeGodName = hikmatism_knowledge_god_name
 				KnowledgeGodNamePossessive = hikmatism_knowledge_god_name_possessive
-				KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
-				KnowledgeGodHerHis = CHARACTER_HERHIS_HER
-				KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WarGod
 				WarGodName = hikmatism_war_god_name
 				WarGodNamePossessive = hikmatism_war_god_name_possessive
-				WarGodSheHe = CHARACTER_SHEHE_SHE
-				WarGodHerHis = CHARACTER_HERHIS_HER
-				WarGodHerHim = CHARACTER_HERHIM_HER
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
 
 				#NightGod
 				NightGodName = hikmatism_night_god_name
 				NightGodNamePossessive = hikmatism_night_god_name_possessive
-				NightGodSheHe = CHARACTER_SHEHE_SHE
-				NightGodHerHis = CHARACTER_HERHIS_HER
-				NightGodHerHim = CHARACTER_HERHIM_HER
+				NightGodSheHe = CHARACTER_SHEHE_HE
+				NightGodHerHis = CHARACTER_HERHIS_HIS
+				NightGodHerHim = CHARACTER_HERHIM_HIM
 
 				#WaterGod
 				WaterGodName = hikmatism_water_god_name
 				WaterGodNamePossessive = hikmatism_water_god_name_possessive
-				WaterGodSheHe = CHARACTER_SHEHE_SHE
-				WaterGodHerHis = CHARACTER_HERHIS_HER
-				WaterGodHerHim = CHARACTER_HERHIM_HER
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
 
 				GoodGodNames = {
-					hikmatism_high_god_name
-					hikmatism_high_god_alternate
-					dualism_high_god_alternate
+					manicheanism_good_god_father_of_greatness
+					manicheanism_good_god_mother_of_life
+					manicheanism_good_god_first_man
 				}
 				DevilName = hikmatism_devil_name
 				DevilNamePossessive = hikmatism_devil_name_possessive
@@ -951,18 +950,17 @@
 				DevilHerselfHimself = CHARACTER_HIMSELF
 				EvilGodNames = {
 					hikmatism_devil_name
+					dualism_devil_name
 					dualism_evil_god_archons
+					dualism_evil_god_matter
 					dualism_evil_god_ignorance
 				}
-				DivineRealm = hikmatist_divine_realm
-				PositiveAfterLife = hikmatist_positive_afterlife
 				WitchGodName = hikmatism_devil_name
 				WitchGodHerHis = CHARACTER_HERHIS_HIS
 				WitchGodSheHe = CHARACTER_SHEHE_HE
 				WitchGodHerHim = CHARACTER_HERHIM_HIM
 				WitchGodMistressMaster = master
 				WitchGodMotherFather = father
-
 			}
 		}
 	}
