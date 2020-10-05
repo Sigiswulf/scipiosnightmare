@@ -865,29 +865,29 @@
 			doctrine = tenet_adaptive
 			doctrine = tenet_esotericism
 
-			localization = { # Manichean/Priscillianism Gods
+			localization = { # Punic gods as part of a dualistic dichotomy, minus the false Tanit
 				#HighGodName
 				HighGodName = hikmatism_high_god_name
 				HighGodNamePossessive = hikmatism_high_god_name_possessive
-				HighGodNameSheHe = CHARACTER_SHEHE_HE
-				HighGodHerselfHimself = CHARACTER_HIMSELF
-				HighGodHerHis = CHARACTER_HERHIS_HIS
+				HighGodNameSheHe = CHARACTER_SHEHE_IT
+				HighGodHerselfHimself = CHARACTER_ITSELF
+				HighGodHerHis = CHARACTER_HERHIS_ITS
 				HighGodNameAlternate = hikmatism_high_god_name
 				HighGodNameAlternatePossessive = hikmatism_high_god_name_possessive
 
 				#Creator
 				CreatorName = hikmatism_creator_god_name
 				CreatorNamePossessive = hikmatism_creator_god_name_possessive
-				CreatorSheHe = CHARACTER_SHEHE_SHE
-				CreatorHerHis = CHARACTER_HERHIS_HER
-				CreatorHerHim = CHARACTER_HERHIM_HER
+				CreatorSheHe = CHARACTER_SHEHE_HE
+				CreatorHerHis = CHARACTER_HERHIS_HIS
+				CreatorHerHim = CHARACTER_HERHIM_HIM
 
 				#HealthGod
 				HealthGodName = hikmatism_health_god_name
 				HealthGodNamePossessive = hikmatism_health_god_name_possessive
-				HealthGodSheHe = CHARACTER_SHEHE_IT
-				HealthGodHerHis = CHARACTER_HERHIS_ITS
-				HealthGodHerHim = CHARACTER_HERHIM_IT
+				HealthGodSheHe = CHARACTER_SHEHE_SHE
+				HealthGodHerHis = CHARACTER_HERHIS_HER
+				HealthGodHerHim = CHARACTER_HERHIM_HER
 				
 				#FertilityGod
 				FertilityGodName = hikmatism_fertility_god_name
@@ -906,23 +906,23 @@
 				#HouseholdGod
 				HouseholdGodName = hikmatism_household_god_name
 				HouseholdGodNamePossessive = hikmatism_household_god_name_possessive
-				HouseholdGodSheHe = CHARACTER_SHEHE_HE
-				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
-				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 				#KnowledgeGod
 				KnowledgeGodName = hikmatism_knowledge_god_name
 				KnowledgeGodNamePossessive = hikmatism_knowledge_god_name_possessive
-				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
-				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
-				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+				KnowledgeGodSheHe = CHARACTER_SHEHE_IT
+				KnowledgeGodHerHis = CHARACTER_HERHIS_ITS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_IT
 
 				#WarGod
 				WarGodName = hikmatism_war_god_name
 				WarGodNamePossessive = hikmatism_war_god_name_possessive
-				WarGodSheHe = CHARACTER_SHEHE_HE
-				WarGodHerHis = CHARACTER_HERHIS_HIS
-				WarGodHerHim = CHARACTER_HERHIM_HIM
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
 
 				#NightGod
 				NightGodName = hikmatism_night_god_name
@@ -938,11 +938,6 @@
 				WaterGodHerHis = CHARACTER_HERHIS_HIS
 				WaterGodHerHim = CHARACTER_HERHIM_HIM
 
-				GoodGodNames = {
-					manicheanism_good_god_father_of_greatness
-					manicheanism_good_god_mother_of_life
-					manicheanism_good_god_first_man
-				}
 				DevilName = hikmatism_devil_name
 				DevilNamePossessive = hikmatism_devil_name_possessive
 				DevilSheHe = CHARACTER_SHEHE_HE
