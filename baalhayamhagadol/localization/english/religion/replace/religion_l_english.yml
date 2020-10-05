@@ -444,6 +444,18 @@
  holy_site_makhir_effect_name:0 "From [holy_site|E] #weak ($holy_site_makhir_name$)#!"
  holy_site_mogadishu_name:0 "Mogadishu"
  holy_site_mogadishu_effect_name:0 "From [holy_site|E] #weak ($holy_site_mogadishu_name$)#!"
+ 
+ #Holy Sites: Punic/Cadessite
+ holy_site_carthage_name:0 "Carthage"
+ holy_site_carthage_effect_name:0 "From [holy_site|E] #weak ($holy_site_carthage_name$)#!"
+ holy_site_beirut_name:0 "Sidon"
+ holy_site_beirut_effect_name:0 "From [holy_site|E] #weak ($holy_site_beirut_name$)#!"
+ holy_site_lilybaion_name:0 "Lilubai"
+ holy_site_lilybaion_effect_name:0 "From [holy_site|E] #weak ($holy_site_lilybaion_name$)#!"
+ holy_site_newcarthage_name:0 "New Carthage"
+ holy_site_newcarthage_effect_name:0 "From [holy_site|E] #weak ($holy_site_newcarthage_name$)#!"
+ holy_site_barqen_name:0 "Barqen"
+ holy_site_barqen_effect_name:0 "From [holy_site|E] #weak ($holy_site_barqen_name$)#!"
 
  rf_abrahamic:0 "Abrahamic"
  rf_pagan:0 "Pagan"
