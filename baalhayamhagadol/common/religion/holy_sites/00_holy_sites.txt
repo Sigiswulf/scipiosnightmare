@@ -1629,3 +1629,33 @@ suzhou = {
 		martial = 1
 	}
 }
+
+#hikmatist
+
+lilybaion = {
+	county = c_palermo 
+
+	character_modifier = {
+		name = holy_site_lilybaion_effect_name
+		councillor_opinion = 5
+	}
+}
+
+newcarthage = {
+	county = c_murcia 
+
+	character_modifier = {
+		name = holy_site_newcarthage_effect_name
+		councillor_opinion = 5
+	}
+}
+
+barqen = {
+	county = c_barcelona
+	is_active = no
+
+	character_modifier = {
+		name = holy_site_barqen_effect_name
+		monthly_piety_gain_mult = 0.1
+	}
+}
